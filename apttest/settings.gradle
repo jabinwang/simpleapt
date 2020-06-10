@@ -1,0 +1,4 @@
+include ':apt_compiler'
+include ':apt-annotation'
+include ':app'
+rootProject.name = "apttest"
